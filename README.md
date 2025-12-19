@@ -12,4 +12,4 @@ All sessions are anonymous and ephemeral. No information is saved after a sessio
 
 ### Contact
 If you have questions, contact:
-s12105fish@outlook.com
+support@fishscalability.com
